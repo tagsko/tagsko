@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a secret startup
+- 🌱 I’m currently learning French, coding with Python
+- 👯 I’m looking to collaborate on software for consulting and start-up frameworks
+- 🤔 I’m looking for help with coding 
+- 💬 Ask me about soft financing 
+- 📫 How to reach me: tage alfa tagsko.com
+
 <!--
 **tagsko/tagsko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
